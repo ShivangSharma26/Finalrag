@@ -1,0 +1,14 @@
+python-dotenv
+pandas
+SpeechRecognition
+pyttsx3
+langchain
+langchain-community
+langchain-google-genai
+sentence-transformers
+chromadb
+fastapi
+uvicorn
+pydantic
+langchain
+openai
